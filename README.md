@@ -1,1 +1,0 @@
-# pianokeys project on codecademy.
